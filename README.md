@@ -16,8 +16,8 @@ Calm and Mindful Gameplay: Engage in gameplay mechanics that prioritize calmness
 ### Project Test Instructions:
 
 * Login to Metamask from Desktop or Laptop
-* Add Polygon Testnet in Metamask
-* Make sure you have enough Matic coins in account
+* Add FVM Hyperspace Testnet in Metamask
+* Make sure you have enough Test FIL coins in account
 * Login into game from Desktop or Laptop
 * Start your game
 
