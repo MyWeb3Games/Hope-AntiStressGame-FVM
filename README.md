@@ -21,6 +21,15 @@ Calm and Mindful Gameplay: Engage in gameplay mechanics that prioritize calmness
 * Login into game from Desktop or Laptop
 * Start your game
 
+## FVM Hyperspace Testnet Usecase
+
+* 2 smart contracts deployed on FVM Hyperspace Testnet
+    - In-game purcahse with FVM balance
+    - In-game purcahse in exchange of FVM ERC-20 token
+    - Unlock game activity as NFT
+    - Get native FVM, token and NFT balance
+    - Reward ERC-20 token to players who has stress level medium to high
+    - Other small usecase like time, block and other calls
 
 ### Contract Address:
 https://hyperspace.filfox.info/en/address/0xDF975BBE0802446AE633Ec339e56a72d29f85483
